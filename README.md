@@ -15,7 +15,7 @@ This repository serves as a technical knowledge base where I bridge the gap betw
 
 | Category | Paper | Core Engineering Insight | Status |
 | :--- | :--- | :--- | :--- |
-| **GNN** | [Beyond Message Passing: Neural Graph Pattern Machine](https://arxiv.org/abs/2403.11877) | Evaluating subgraph patterns to capture complex social topologies beyond simple message passing. | 🟢 Reading |
+| **GNN** | [Beyond Message Passing: Neural Graph Pattern Machine](https://arxiv.org/abs/2501.18739) | Evaluating subgraph patterns to capture complex social topologies beyond simple message passing. | 🟢 Reading |
 | **LTR** | (Upcoming) | - | ⚪️ Todo |
 | **ANN** | (Upcoming) | - | ⚪️ Todo |
 
